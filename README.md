@@ -1,6 +1,6 @@
 3 executables are provided, each play the game on their respecitve latency.
 To play them simply open the folder of the application with the latency you would like to play and double click the Top-down buzzsaws file.
-In order to alter the level of latency from the project files you must:
+In order to alter the level of latency from the project files(Top-down boulders folder) you must:
 1. Open the project in unity.
 2. Open the playerMovement2D script.
 3. Change the latency variable to the desired latency (defualt is 0, 80 and 160 are the other latencies being tested) in the Start method.
